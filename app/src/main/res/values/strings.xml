@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PassingObjectbnActivitiesRunTime</string>
+    <string name="DPOBA">Demo of Passing Objects Between Activities</string>
+    <string name="SID">Student ID</string>
+    <string name="SNAME">Student Name</string>
+    <string name="CNO">Contact Number</string>
+    <string name="SMID">Student Mail ID</string>
+    <string name="CR">CLEAR</string>
+    <string name="SBT">SUBMIT</string>
+    <string name="RES">RESULT</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+</resources>
